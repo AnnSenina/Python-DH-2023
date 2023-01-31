@@ -1,7 +1,8 @@
 # Python-DH-2023
 Репозиторий для курса "Введение в Python для Digital Humanities" 2023
 
-### Здесь появится ссылка на плейлист youtube!
+Плейлист с записью занятий на [youtube](https://youtube.com/playlist?list=PLWKPhCKW0I5JBTFFIr-9jTMqmxLpeQYIs)
+
 Присоединяйтесь к [чату в телеграме](https://t.me/+ADivjRmvvVc4ZTMy)
 
 # Расписание курса
