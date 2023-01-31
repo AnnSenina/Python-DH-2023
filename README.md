@@ -1,11 +1,14 @@
 # Python-DH-2023
 Репозиторий для курса "Введение в Python для Digital Humanities" 2023
 
+### Здесь появится ссылка на плейлист youtube!
+Присоединяйтесь к [чату в телеграме](https://t.me/+ADivjRmvvVc4ZTMy)
+
 # Расписание курса
-<table><tr><td><p>**Тема**</p>
-</td><td><p>**Дата**</p>
-</td><td><p>**Время**</p>
-</td>
+<table><tr><th><p>Тема</p>
+</th><th><p>Дата</p>
+</th><th><p>Время</p>
+</th>
 </tr><tr><td><p>Установка Git и Python</p>
 </td><td><p>1 февраля (среда)</p>
 </td><td rowspan="9"><br><br><br><p>19:00-20:20, 
