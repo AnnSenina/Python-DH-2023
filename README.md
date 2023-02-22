@@ -42,9 +42,16 @@
 </tr>
 </table>
 
-# Формула оценивания
+# Домашнее задание и формула оценивания
+
+[Домашнее задание 1](https://github.com/AnnSenina/Python_DH_2023/tree/main/Homeworks): написание чат бота. **Дедлайн: 1 марта**
 
 *Домашнее задание 1 (бот)*  *  **0,3**  +  *Домашнее задание 2 (парсинг)*  *  **0,3**  +  *Тест*  *  **0,4**
+
+### Как отправлять домашние задания?
+Разместить тетрадку с кодом в вашем репозитории на гитхабе. 
+* если репозиторий публичный - просто прислать ссылку на него в телеграм / на почту преподавателю
+* если приватный: Settings - Collaborators - Add people - добавляем по нику на гитхабе AnnSenina (пошаговая инфструкция на самом гитхабе опубликована [здесь](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-personal-account-on-github/managing-access-to-your-personal-repositories/inviting-collaborators-to-a-personal-repository))
 
 # Встречи
 
