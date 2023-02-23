@@ -21,7 +21,7 @@
 </tr><tr><td><p><a href="https://github.com/AnnSenina/Python_DH_2023/blob/main/notebooks/Python_3_list%2C_tuple%2C_set%2C_dict.ipynb">Типы данных посложнее: список, кортеж, множество, словарь</a></p>
 </td><td><p>15 февраля</p>
 </td>
-</tr><tr><td><p><a href="https://github.com/AnnSenina/Python_DH_2023/blob/main/notebooks/Python_4_if%2C_while%2C_for.ipynb">Условия + Циклы</a></p>
+</tr><tr><td><p><a href="https://github.com/AnnSenina/Python_DH_2023/blob/main/notebooks/Python_4_if%2C_while%2C_for%20%D1%81%20%D0%B4%D0%BE%D0%BF%D0%BE%D0%BB%D0%BD%D0%B5%D0%BD%D0%B8%D1%8F%D0%BC%D0%B8.ipynb">Условия + Циклы</a></p>
 </td><td><p>22 февраля</p>
 </td>
 </tr><tr><td><p>Функции</p>
