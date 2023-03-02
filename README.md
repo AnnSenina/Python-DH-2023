@@ -44,6 +44,8 @@
 
 # Домашнее задание и формула оценивания
 
+[Таблица с оценками по курсу](https://docs.google.com/spreadsheets/d/1nViANL-nNK9WBZA_yYXALvkDlvOP4SH7V2g9lWDCRAk/edit?usp=sharing)
+
 [Домашнее задание 1](https://github.com/AnnSenina/Python_DH_2023/tree/main/Homeworks): написание чат бота. **Дедлайн: 1 марта**
 
 *Домашнее задание 1 (бот)*  *  **0,3**  +  *Домашнее задание 2 (парсинг)*  *  **0,3**  +  *Тест*  *  **0,4**
