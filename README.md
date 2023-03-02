@@ -24,7 +24,7 @@
 </tr><tr><td><p><a href="https://github.com/AnnSenina/Python_DH_2023/blob/main/notebooks/Python_4_if%2C_while%2C_for%20%D1%81%20%D0%B4%D0%BE%D0%BF%D0%BE%D0%BB%D0%BD%D0%B5%D0%BD%D0%B8%D1%8F%D0%BC%D0%B8.ipynb">Условия + Циклы</a></p>
 </td><td><p>22 февраля</p>
 </td>
-</tr><tr><td><p>Функции</p>
+</tr><tr><td><p><a href="https://github.com/AnnSenina/Python_DH_2023/blob/main/notebooks/Python_5_Functions__%D1%81_%D0%BF%D0%B0%D1%80%D1%8B.ipynb">Функции</a></p>
 </td><td><p>1 марта</p>
 </td>
 </tr><tr><td><p>Регулярные выражения</p>
