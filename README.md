@@ -27,7 +27,7 @@
 </tr><tr><td><p><a href="https://github.com/AnnSenina/Python_DH_2023/blob/main/notebooks/Python_5_Functions__%D1%81_%D0%BF%D0%B0%D1%80%D1%8B.ipynb">Функции</a></p>
 </td><td><p>1 марта</p>
 </td>
-</tr><tr><td><p>Регулярные выражения</p>
+</tr><tr><td><p><a href="https://github.com/AnnSenina/Python_DH_2023/blob/main/notebooks/Python_6_regex.ipynb">Регулярные выражения</a></p>
 </td><td><p>15 марта</p>
 </td>
 </tr><tr><td><p>Работа с файлами: модуль OS</p>
