@@ -30,7 +30,7 @@
 </tr><tr><td><p><a href="https://github.com/AnnSenina/Python_DH_2023/blob/main/notebooks/Python_6_regex.ipynb">Регулярные выражения</a></p>
 </td><td><p>15 марта</p>
 </td>
-</tr><tr><td><p>Работа с файлами: модуль OS</p>
+</tr><tr><td><p><a href="https://github.com/AnnSenina/Python_DH_2023/blob/main/notebooks/Python_7_os%2C_files.ipynb">Работа с файлами: модуль OS</a> + <a href="https://github.com/AnnSenina/Python_DH_2023/blob/main/notebooks/Python_pandas.ipynb">pandas</a></p>
 </td><td><p>22 марта</p>
 </td>
 </tr><tr><td><p>Краулеры + парсеры + скрейперы</p>
